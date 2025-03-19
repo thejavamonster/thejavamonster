@@ -1,20 +1,88 @@
 ![Header](https://github.com/user-attachments/assets/16a96d78-6114-48c1-b6a7-51650c38ba28)
 
-![](https://komarev.com/ghpvc/?username=thejavamonster&color=blue&style=for-the-badge)
 
-
-### About Me
+## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m working on: **Python face recognition**
-- 🌱 I’m currently learning: **C# and dlib**
+- 👀 I’m currently working on: **Python face recognition**
+- 🌱 I’m learning: **C# and dlib**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thejavamonster" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejavamonster&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejavamonster&bg_color=fffefe&color=2f80ed&title_color=2f80ed&line=2f80ed&point=2f80ed&area=true&area_color=c4d4e6&grid_color=c4d4e9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+  
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejavamonster&bg_color=fffefe&color=2f80ed&title_color=2f80ed&line=2f80ed&point=2f80ed&area=true&area_color=c4d4e6&grid_color=91a1b6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
+
+
+## Tech Stack
+
+### 🖥️Languages
+
+<div align="center">
+
+  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+### 🧩Frameworks
+<div align="center">
+
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+
+</div>
+
+### 📝Dev tools
+<div align="center">
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### 🧰Other
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+</div>
+
+<!--
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=thejavamonster&color=blue&style=for-the-badge)
+
+</div>
+
+-->
