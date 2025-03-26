@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **Python face recognition**
+- 👀 I’m currently working on: **3D snake game**
 - 🌱 I’m learning: **C# and dlib**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
