@@ -3,8 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **3D snake game**
-- 🌱 I’m learning: **C# and dlib**
+- 👀 I’m currently working on: **GCC Hackathon project**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
 <div align="center">
