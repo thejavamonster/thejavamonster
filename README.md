@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **WebSudoku optimizing**
+- 👀 I’m currently working on: **css is terrible i hate it**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
 <div align="center">
