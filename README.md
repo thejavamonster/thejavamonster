@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **css is terrible i hate it**
+- 👀 I’m currently working on: **idk**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
 <div align="center">
