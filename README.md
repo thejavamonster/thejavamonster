@@ -23,6 +23,7 @@
 
 </div>
 
+<!-- This is a hidden comment in Markdown using HTML syntax
 
 ## Tech Stack
 
@@ -83,5 +84,7 @@
 ![](https://komarev.com/ghpvc/?username=thejavamonster&color=blue&style=for-the-badge)
 
 </div>
+
+-->
 
 -->
