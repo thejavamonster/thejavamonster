@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **idk**
+- 👀 I’m currently working on: **fixing gtrends cus its slow**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
 <div align="center">
