@@ -3,9 +3,8 @@
 
 ## About Me
 - 👋 Hi, I’m @thejavamonster
-- 👀 I’m currently working on: **fixing gtrends cus its slow**
-- 📫 How to reach me: **jules328@ohs.stanford.edu**
-
+- 👀 I’m currently working on: **exploring gerrymandering with VTD data**
+- 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
 
 <div align="center">
