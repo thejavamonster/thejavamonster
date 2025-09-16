@@ -6,6 +6,20 @@
 - 👀 I’m currently working on: **fixing gtrends cus its slow**
 - 📫 How to reach me: **jules328@ohs.stanford.edu**
 
+```
+   $$$$$\ $$$$$$\ $$\      $$\ $$$$$$$\   $$$$$$\  
+   \__$$ |\_$$  _|$$$\    $$$ |$$  __$$\ $$  __$$\ 
+      $$ |  $$ |  $$$$\  $$$$ |$$ |  $$ |$$ /  $$ |
+      $$ |  $$ |  $$\$$\$$ $$ |$$$$$$$\ |$$ |  $$ |
+$$\   $$ |  $$ |  $$ \$$$  $$ |$$  __$$\ $$ |  $$ |
+$$ |  $$ |  $$ |  $$ |\$  /$$ |$$ |  $$ |$$ |  $$ |
+\$$$$$$  |$$$$$$\ $$ | \_/ $$ |$$$$$$$  | $$$$$$  |
+ \______/ \______|\__|     \__|\_______/  \______/ 
+                                                   
+                                                   
+                                                   
+s
+```
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thejavamonster" />
