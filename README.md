@@ -1,4 +1,5 @@
-![Header](https://github.com/user-attachments/assets/16a96d78-6114-48c1-b6a7-51650c38ba28)
+![Header](https://github.com/user-attachments/assets/682b1901-997e-4808-be6b-5fa3e4cdc2c1)
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/682b1901-997e-4808-be6b-5fa3e4cdc2c1" />
 
 
 ## About Me
