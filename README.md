@@ -2,7 +2,7 @@
 
 
 ## About Me
-- 👋 Hi, I’m @thejavamonster
+- 👋 Hi, I’m **@thejavamonster**
 - 👀 I’m currently working on: **exploring gerrymandering with VTD data**
 - 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
