@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m **@thejavamonster**
-- 👀 I’m currently working on: **exploring gerrymandering with VTD data**
+- 👀 I’m currently working on: **3d globe radar projection**
 - 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
 
