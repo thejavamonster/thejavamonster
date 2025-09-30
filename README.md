@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m **@thejavamonster**
-- 👀 I’m currently working on: **3d globe radar projection**
+- 👀 I’m currently working on: **websudoku debugging**
 - 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
 
