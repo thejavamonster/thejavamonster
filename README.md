@@ -3,7 +3,7 @@
 
 ## About Me
 - 👋 Hi, I’m **@thejavamonster**
-- 👀 I’m currently working on: **websudoku debugging**
+- 👀 I’m currently working on: **making an ohs reference website with course reviews, syllabi, etc. not actually making it cus its midterms but i will soon**
 - 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
 
