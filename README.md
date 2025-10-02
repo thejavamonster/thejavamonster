@@ -4,7 +4,7 @@
 ## About Me
 - 👋 Hi, I’m **@thejavamonster**
 - 🏫 I'm a junior at **Stanford Online High School**
-- 🏡 I live in **Florida, USA**
+- 🏡 I live in **Tallahassee, Florida**
 - 🧩 I enjoy **coding, drawing, video-making, soccer, and music**
 - 👀 I’m currently working on: **making an OHS course catalog reference website**
 - 📫 How to reach me: **@java.the.hutt on Discord**
