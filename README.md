@@ -3,7 +3,10 @@
 
 ## About Me
 - 👋 Hi, I’m **@thejavamonster**
-- 👀 I’m currently working on: **making an ohs reference website with course reviews, syllabi, etc. not actually making it cus its midterms but i will soon**
+- 🏫 I'm a junior at **Stanford Online High School**
+- 🏡 I live in **Florida, USA**
+- 🧩 I enjoy **coding, drawing, video-making, soccer, and music**
+- 👀 I’m currently working on: **making an OHS course catalog reference website**
 - 📫 How to reach me: **@java.the.hutt on Discord**
                                                                
 
