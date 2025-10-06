@@ -8,6 +8,8 @@
 - 🧩 I enjoy **coding, drawing, video-making, soccer, and music**
 - 👀 I’m currently working on: **making an OHS course catalog reference website**
 - 📫 How to reach me: **@java.the.hutt on Discord**
+
+Last updated 10/6/2025
                                                                
 
 <div align="center">
