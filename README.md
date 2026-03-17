@@ -20,7 +20,7 @@ Last updated 10/6/2025
 
 <div align="center">
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejavamonster&btheme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thejavamonster&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
